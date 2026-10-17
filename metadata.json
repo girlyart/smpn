@@ -1,0 +1,6 @@
+{
+  "name": "SMP Nusantara Cendekia",
+  "description": "Website resmi SMP Nusantara Cendekia - Sekolah Penggerak & Ramah Anak Terakreditasi A. Informasi PPDB Online 2026/2027, Program Unggulan, Ekstrakurikuler, dan Portal Siswa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
