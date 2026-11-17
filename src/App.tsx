@@ -208,7 +208,7 @@ export default function App() {
     },
     {
       id: 4,
-      name: 'Basket SMP 6 Jember',
+      name: 'Basket SMP Negeri Jember',
       category: 'olahraga',
       schedule: 'Rabu & Sabtu, 15.30 WIB',
       achievement: 'Juara 1 DBL Junior',
@@ -218,7 +218,7 @@ export default function App() {
     },
     {
       id: 5,
-      name: 'Futsal & Sepak Bola SMP 6 Jember',
+      name: 'Futsal & Sepak Bola SMP Negeri Jember',
       category: 'olahraga',
       schedule: 'Jumat, 15.00 WIB',
       achievement: 'Juara Walikota Cup',
@@ -283,14 +283,14 @@ export default function App() {
   const newsData: NewsItem[] = [
     {
       id: 0,
-      title: 'Tim Robotik SMP 6 Jember Raih Medali Emas di Ajang Nasional IYRC 2026',
+      title: 'Tim Robotik SMP Negeri Jember Raih Medali Emas di Ajang Nasional IYRC 2026',
       category: 'Prestasi Siswa',
       date: '12 Oktober 2026',
       summary: 'Inovasi robot pemilah sampah otomatis berbasis sensor warna karya siswa kelas VIII berhasil memukau dewan juri nasional di Jakarta Convention Center.',
       content:
-        'Prestasi membanggakan kembali dipersembahkan oleh Tim Robotik SMP 6 Jember di kancah nasional. Pada ajang Indonesia Youth Robot Competition (IYRC) 2026 yang dihelat di Jakarta, tim yang digawangi oleh Farhan Alatas (Kelas VIII-A) dan Clarissa Putri (Kelas VIII-C) sukses meraih Juara I (Gold Medal) pada kategori Creative Eco-Innovation.\n\nRobot yang dinamai "EcoSort Spenam V-2" ini mampu mendeteksi jenis sampah plastik, kertas, dan logam menggunakan sensor warna terintegrasi dan sistem lengan hidrolik mini yang dikendalikan oleh mikrokontroler. Kepala Sekolah Dr. H. Hendra Wijaya, M.Pd. menyampaikan apresiasi setinggi-tingginya atas dedikasi para siswa dan guru pembimbing.',
+        'Prestasi membanggakan kembali dipersembahkan oleh Tim Robotik SMP Negeri Jember di kancah nasional. Pada ajang Indonesia Youth Robot Competition (IYRC) 2026 yang dihelat di Jakarta, tim yang digawangi oleh Farhan Alatas (Kelas VIII-A) dan Clarissa Putri (Kelas VIII-C) sukses meraih Juara I (Gold Medal) pada kategori Creative Eco-Innovation.\n\nRobot yang dinamai "EcoSort Jember V-2" ini mampu mendeteksi jenis sampah plastik, kertas, dan logam menggunakan sensor warna terintegrasi dan sistem lengan hidrolik mini yang dikendalikan oleh mikrokontroler. Kepala Sekolah Dr. H. Hendra Wijaya, M.Pd. menyampaikan apresiasi setinggi-tingginya atas dedikasi para siswa dan guru pembimbing.',
       img: 'https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?auto=format&fit=crop&w=800&q=80',
-      author: 'Tim Humas SMP 6 Jember'
+      author: 'Tim Humas SMP Negeri Jember'
     },
     {
       id: 1,
@@ -299,7 +299,7 @@ export default function App() {
       date: '05 Oktober 2026',
       summary: 'Lebih dari 30 stan kreasi siswa mulai dari kuliner tradisional sehat, hidroponik sekolah, hingga pergelaran drama musikal memadati halaman kampus hijau.',
       content:
-        'Sebagai wujud implementasi Kurikulum Merdeka Projek Penguatan Profil Pelajar Pancasila (P5), SMP 6 Jember menggelar festival tahunan dengan mengusung tema "Kearifan Lokal Menjawab Tantangan Zaman".\n\nKegiatan ini dihadiri langsung oleh perwakilan Dinas Pendidikan, tokoh masyarakat, dan ratusan orang tua murid. Stan pameran memamerkan produk olahan pangan lokal tanpa pengawet buatan, prototype pengolahan air hujan menjadi air layak pakai, serta busana kreasi daur ulang limbah kertas koran yang artistik.',
+        'Sebagai wujud implementasi Kurikulum Merdeka Projek Penguatan Profil Pelajar Pancasila (P5), SMP Negeri Jember menggelar festival tahunan dengan mengusung tema "Kearifan Lokal Menjawab Tantangan Zaman".\n\nKegiatan ini dihadiri langsung oleh perwakilan Dinas Pendidikan, tokoh masyarakat, dan ratusan orang tua murid. Stan pameran memamerkan produk olahan pangan lokal tanpa pengawet buatan, prototype pengolahan air hujan menjadi air layak pakai, serta busana kreasi daur ulang limbah kertas koran yang artistik.',
       img: 'https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=800&q=80',
       author: 'Koordinator P5 Sekolah'
     }
@@ -311,7 +311,7 @@ export default function App() {
       id: 0,
       topic: 'akademik',
       badge: 'Akademik & Kurikulum',
-      question: 'Bagaimana sistem kurikulum dan jam belajar harian di SMP 6 Jember?',
+      question: 'Bagaimana sistem kurikulum dan jam belajar harian di SMP Negeri Jember?',
       answer:
         'Sekolah menerapkan Kurikulum Merdeka yang diperkaya dengan 4 pilar keunggulan (Smart Digital Class, Bilingual Speaking, Riset Sains, & Bina Karakter). Pembelajaran berlangsung 5 hari kerja (Senin - Jumat) mulai pukul 07.00 hingga 15.15 WIB, diawali pembiasaan ibadah pagi dan literasi. Hari Sabtu difokuskan untuk kegiatan ekstrakurikuler pilihan dan pembinaan olimpiade (08.00 - 11.30 WIB).'
     },
@@ -337,7 +337,7 @@ export default function App() {
       badge: 'Pembinaan Karakter',
       question: 'Bagaimana pendekatan sekolah dalam mencegah perundungan (Anti-Bullying)?',
       answer:
-        'SMP 6 Jember memiliki sertifikasi Sekolah Ramah Anak (SRA) Tingkat Nasional. Kami menerapkan regulasi Zero Tolerance terhadap segala bentuk perundungan (verbal, fisik, maupun siber). Setiap kelas memiliki tutor sebaya dan didampingi guru Bimbingan Konseling (BK) yang proaktif, serta CCTV 24 jam di seluruh area publik sekolah.'
+        'SMP Negeri Jember memiliki sertifikasi Sekolah Ramah Anak (SRA) Tingkat Nasional. Kami menerapkan regulasi Zero Tolerance terhadap segala bentuk perundungan (verbal, fisik, maupun siber). Setiap kelas memiliki tutor sebaya dan didampingi guru Bimbingan Konseling (BK) yang proaktif, serta CCTV 24 jam di seluruh area publik sekolah.'
     },
     {
       id: 4,
@@ -488,7 +488,7 @@ export default function App() {
               </div>
               <div>
                 <span className="font-heading font-extrabold text-lg sm:text-xl tracking-tight text-slate-900 dark:text-white block leading-none">
-                  SMP 6 JEMBER
+                  SMP NEGERI JEMBER
                 </span>
                 <span className="text-xs font-semibold tracking-widest text-blue-600 dark:text-blue-400 uppercase">
                   Unggul • Terakreditasi A
@@ -695,7 +695,7 @@ export default function App() {
               </h1>
 
               <p className="text-base sm:text-lg text-slate-600 dark:text-slate-300 max-w-2xl mx-auto lg:mx-0 leading-relaxed">
-                SMP 6 Jember memadukan Kurikulum Merdeka berbasis teknologi digital, penguatan
+                SMP Negeri Jember memadukan Kurikulum Merdeka berbasis teknologi digital, penguatan
                 karakter mulia, dan pengembangan bakat siswa dalam lingkungan belajar yang inspiratif,
                 inklusif, dan menyenangkan.
               </p>
@@ -754,7 +754,7 @@ export default function App() {
                 {/* Main Hero Student Cutout — no blue shadow/glow behind photo */}
                 <img
                   src="/assets/aistudio/Siswi_Berhijab_Membawa_Buku_Pelajaran_f4b9fae1.png"
-                  alt="Siswi SMP 6 Jember Membawa Buku Pelajaran"
+                  alt="Siswi SMP Negeri Jember Membawa Buku Pelajaran"
                   className="relative z-10 w-full max-w-[620px] xl:max-w-[680px] lg:scale-105 origin-bottom h-auto object-contain [mask-image:linear-gradient(to_bottom,black_84%,transparent_100%)]"
                 />
               </div>
@@ -784,12 +784,12 @@ export default function App() {
                       Dr. H. Hendra Wijaya, M.Pd.
                     </h3>
                     <p className="text-xs text-slate-500 dark:text-slate-400">
-                      Kepala SMP 6 Jember
+                      Kepala SMP Negeri Jember
                     </p>
                   </div>
                 </div>
                 <blockquote className="text-slate-600 dark:text-slate-300 text-sm sm:text-base leading-relaxed italic mb-6">
-                  "Pendidikan di usia SMP adalah fondasi emas pembentukan jati diri. Di SMP 6
+                  "Pendidikan di usia SMP adalah fondasi emas pembentukan jati diri. Di SMP Negeri
                   Jember, kami memastikan setiap anak dihargai keunikannya, ditantang daya pikirnya, dan
                   dibimbing akhlak mulianya agar siap menjadi pemimpin masa depan yang berdaya saing global."
                 </blockquote>
@@ -814,7 +814,7 @@ export default function App() {
               </div>
 
               <p className="text-slate-600 dark:text-slate-300 leading-relaxed">
-                Didirikan sejak tahun 1998, SMP 6 Jember terus bertransformasi menjadi sekolah
+                Didirikan sejak tahun 1998, SMP Negeri Jember terus bertransformasi menjadi sekolah
                 rujukan nasional yang mengintegrasikan kecerdasan intelektual, kematangan emosional, dan
                 keluhuran budi pekerti dalam bingkai Profil Pelajar Pancasila.
               </p>
@@ -874,7 +874,7 @@ export default function App() {
             </h2>
             <p className="text-slate-600 dark:text-slate-400 mt-3">
               Kami menerapkan Kurikulum Merdeka yang diperkaya dengan 4 pilar program unggulan khas SMP
-              6 Jember.
+              Negeri Jember.
             </p>
           </div>
 
@@ -1181,7 +1181,7 @@ export default function App() {
 
               <h2 className="font-heading text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight">
                 Mari Bergabung Menjadi Keluarga Besar{' '}
-                <span className="text-amber-400">SMP 6 Jember</span>
+                <span className="text-amber-400">SMP Negeri Jember</span>
               </h2>
 
               <p className="text-blue-100 text-base leading-relaxed">
@@ -1580,7 +1580,7 @@ export default function App() {
                     </div>
                     <div>
                       <h4 className="font-bold text-sm text-slate-900 dark:text-white">
-                        Spenam Science & Art Cup
+                        Jember Science & Art Cup
                       </h4>
                       <p className="text-xs text-slate-500 dark:text-slate-400 mt-0.5 flex items-center gap-1">
                         <Clock className="w-3 h-3" /> Lomba Tingkat SD/MI Se-Jawa
@@ -1626,7 +1626,7 @@ export default function App() {
                 </h2>
                 <p className="text-slate-600 dark:text-slate-400 mt-2 text-sm sm:text-base">
                   Pengalaman nyata dari para orang tua wali murid dan alumni yang telah merasakan dampak
-                  pendidikan holistik di SMP 6 Jember.
+                  pendidikan holistik di SMP Negeri Jember.
                 </p>
               </div>
 
@@ -1669,7 +1669,7 @@ export default function App() {
                     </div>
                   </div>
                   <p className="text-slate-600 dark:text-slate-300 text-sm sm:text-base leading-relaxed italic">
-                    "Perkembangan putri kami luar biasa sejak masuk SMP 6 Jember. Tidak hanya nilai
+                    "Perkembangan putri kami luar biasa sejak masuk SMP Negeri Jember. Tidak hanya nilai
                     akademiknya yang meningkat pesat, tetapi juga kepercayaan dirinya saat berbicara bahasa
                     Inggris di depan umum serta adab sopan santunnya di rumah."
                   </p>
@@ -1749,7 +1749,7 @@ export default function App() {
                     </div>
                   </div>
                   <p className="text-slate-600 dark:text-slate-300 text-sm sm:text-base leading-relaxed italic">
-                    "Pembinaan riset dan olimpiade di SMP 6 Jember menjadi bekal terbaik saya hingga
+                    "Pembinaan riset dan olimpiade di SMP Negeri Jember menjadi bekal terbaik saya hingga
                     bisa diterima di SMA Taruna Nusantara dengan beasiswa penuh. Guru-gurunya sangat suportif
                     dan mengajarkan integritas di atas segalanya."
                   </p>
@@ -1862,7 +1862,7 @@ export default function App() {
                         </a>
                         <button
                           onClick={() =>
-                            showToast('Brosur Digital SMP 6 Jember (PDF) sedang diunduh...')
+                            showToast('Brosur Digital SMP Negeri Jember (PDF) sedang diunduh...')
                           }
                           className="px-3.5 py-2 rounded-xl bg-white/10 hover:bg-white/15 text-white font-semibold text-xs inline-flex items-center gap-1.5 transition cursor-pointer"
                         >
@@ -1959,7 +1959,7 @@ export default function App() {
                 </div>
                 <div>
                   <span className="font-heading font-extrabold text-lg text-white block leading-none">
-                    SMP 6 JEMBER
+                    SMP NEGERI JEMBER
                   </span>
                   <span className="text-xs font-semibold tracking-widest text-blue-400 uppercase">
                     Unggul & Berkarakter
@@ -2082,7 +2082,7 @@ export default function App() {
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Mail className="w-4 h-4 text-blue-400 mt-1 shrink-0" />
-                  <span>info@smp6jember.sch.id</span>
+                  <span>info@smpnegerijember.sch.id</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Clock className="w-4 h-4 text-blue-400 mt-1 shrink-0" />
@@ -2097,7 +2097,7 @@ export default function App() {
           </div>
 
           <div className="pt-8 flex flex-col sm:flex-row items-center justify-between text-xs text-slate-500 gap-4">
-            <p>© 2026 SMP 6 Jember. Hak Cipta Dilindungi Undang-Undang.</p>
+            <p>© 2026 SMP Negeri Jember. Hak Cipta Dilindungi Undang-Undang.</p>
             <p>Terakreditasi A (Unggul) • Sekolah Ramah Anak Nasional • NPSN 20548912</p>
           </div>
         </div>
@@ -2226,7 +2226,7 @@ export default function App() {
                 Tur Virtual Kampus 360°
               </span>
               <h3 className="font-heading text-2xl font-bold text-slate-900 dark:text-white mt-1 mb-4">
-                Jelajahi Lingkungan SMP 6 Jember
+                Jelajahi Lingkungan SMP Negeri Jember
               </h3>
 
               <div className="rounded-2xl overflow-hidden aspect-video bg-slate-950 relative flex items-center justify-center mb-6">
@@ -2345,7 +2345,7 @@ export default function App() {
                 <GraduationCap className="w-7 h-7" />
               </div>
               <h3 className="font-heading font-extrabold text-xl text-slate-900 dark:text-white">
-                SMP 6 JEMBER
+                SMP NEGERI JEMBER
               </h3>
               <p className="text-xs text-slate-500">
                 Bukti Pra-Pendaftaran Peserta Didik Baru (PPDB) TA 2026/2027
