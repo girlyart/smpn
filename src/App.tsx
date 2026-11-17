@@ -208,7 +208,7 @@ export default function App() {
     },
     {
       id: 4,
-      name: 'Basket Nusantara Muda',
+      name: 'Basket SMP 6 Jember',
       category: 'olahraga',
       schedule: 'Rabu & Sabtu, 15.30 WIB',
       achievement: 'Juara 1 DBL Junior',
@@ -218,7 +218,7 @@ export default function App() {
     },
     {
       id: 5,
-      name: 'Futsal & Sepak Bola Cendekia',
+      name: 'Futsal & Sepak Bola SMP 6 Jember',
       category: 'olahraga',
       schedule: 'Jumat, 15.00 WIB',
       achievement: 'Juara Walikota Cup',
@@ -283,14 +283,14 @@ export default function App() {
   const newsData: NewsItem[] = [
     {
       id: 0,
-      title: 'Tim Robotik SMP Nusantara Cendekia Raih Medali Emas di Ajang Nasional IYRC 2026',
+      title: 'Tim Robotik SMP 6 Jember Raih Medali Emas di Ajang Nasional IYRC 2026',
       category: 'Prestasi Siswa',
       date: '12 Oktober 2026',
       summary: 'Inovasi robot pemilah sampah otomatis berbasis sensor warna karya siswa kelas VIII berhasil memukau dewan juri nasional di Jakarta Convention Center.',
       content:
-        'Prestasi membanggakan kembali dipersembahkan oleh Tim Robotik SMP Nusantara Cendekia di kancah nasional. Pada ajang Indonesia Youth Robot Competition (IYRC) 2026 yang dihelat di Jakarta, tim yang digawangi oleh Farhan Alatas (Kelas VIII-A) dan Clarissa Putri (Kelas VIII-C) sukses meraih Juara I (Gold Medal) pada kategori Creative Eco-Innovation.\n\nRobot yang dinamai "EcoSort Cendekia V-2" ini mampu mendeteksi jenis sampah plastik, kertas, dan logam menggunakan sensor warna terintegrasi dan sistem lengan hidrolik mini yang dikendalikan oleh mikrokontroler. Kepala Sekolah Dr. H. Hendra Wijaya, M.Pd. menyampaikan apresiasi setinggi-tingginya atas dedikasi para siswa dan guru pembimbing.',
+        'Prestasi membanggakan kembali dipersembahkan oleh Tim Robotik SMP 6 Jember di kancah nasional. Pada ajang Indonesia Youth Robot Competition (IYRC) 2026 yang dihelat di Jakarta, tim yang digawangi oleh Farhan Alatas (Kelas VIII-A) dan Clarissa Putri (Kelas VIII-C) sukses meraih Juara I (Gold Medal) pada kategori Creative Eco-Innovation.\n\nRobot yang dinamai "EcoSort Spenam V-2" ini mampu mendeteksi jenis sampah plastik, kertas, dan logam menggunakan sensor warna terintegrasi dan sistem lengan hidrolik mini yang dikendalikan oleh mikrokontroler. Kepala Sekolah Dr. H. Hendra Wijaya, M.Pd. menyampaikan apresiasi setinggi-tingginya atas dedikasi para siswa dan guru pembimbing.',
       img: 'https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?auto=format&fit=crop&w=800&q=80',
-      author: 'Tim Humas SMP Nusantara'
+      author: 'Tim Humas SMP 6 Jember'
     },
     {
       id: 1,
@@ -299,7 +299,7 @@ export default function App() {
       date: '05 Oktober 2026',
       summary: 'Lebih dari 30 stan kreasi siswa mulai dari kuliner tradisional sehat, hidroponik sekolah, hingga pergelaran drama musikal memadati halaman kampus hijau.',
       content:
-        'Sebagai wujud implementasi Kurikulum Merdeka Projek Penguatan Profil Pelajar Pancasila (P5), SMP Nusantara Cendekia menggelar festival tahunan dengan mengusung tema "Kearifan Lokal Menjawab Tantangan Zaman".\n\nKegiatan ini dihadiri langsung oleh perwakilan Dinas Pendidikan, tokoh masyarakat, dan ratusan orang tua murid. Stan pameran memamerkan produk olahan pangan lokal tanpa pengawet buatan, prototype pengolahan air hujan menjadi air layak pakai, serta busana kreasi daur ulang limbah kertas koran yang artistik.',
+        'Sebagai wujud implementasi Kurikulum Merdeka Projek Penguatan Profil Pelajar Pancasila (P5), SMP 6 Jember menggelar festival tahunan dengan mengusung tema "Kearifan Lokal Menjawab Tantangan Zaman".\n\nKegiatan ini dihadiri langsung oleh perwakilan Dinas Pendidikan, tokoh masyarakat, dan ratusan orang tua murid. Stan pameran memamerkan produk olahan pangan lokal tanpa pengawet buatan, prototype pengolahan air hujan menjadi air layak pakai, serta busana kreasi daur ulang limbah kertas koran yang artistik.',
       img: 'https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=800&q=80',
       author: 'Koordinator P5 Sekolah'
     }
@@ -311,7 +311,7 @@ export default function App() {
       id: 0,
       topic: 'akademik',
       badge: 'Akademik & Kurikulum',
-      question: 'Bagaimana sistem kurikulum dan jam belajar harian di SMP Nusantara Cendekia?',
+      question: 'Bagaimana sistem kurikulum dan jam belajar harian di SMP 6 Jember?',
       answer:
         'Sekolah menerapkan Kurikulum Merdeka yang diperkaya dengan 4 pilar keunggulan (Smart Digital Class, Bilingual Speaking, Riset Sains, & Bina Karakter). Pembelajaran berlangsung 5 hari kerja (Senin - Jumat) mulai pukul 07.00 hingga 15.15 WIB, diawali pembiasaan ibadah pagi dan literasi. Hari Sabtu difokuskan untuk kegiatan ekstrakurikuler pilihan dan pembinaan olimpiade (08.00 - 11.30 WIB).'
     },
@@ -337,7 +337,7 @@ export default function App() {
       badge: 'Pembinaan Karakter',
       question: 'Bagaimana pendekatan sekolah dalam mencegah perundungan (Anti-Bullying)?',
       answer:
-        'SMP Nusantara Cendekia memiliki sertifikasi Sekolah Ramah Anak (SRA) Tingkat Nasional. Kami menerapkan regulasi Zero Tolerance terhadap segala bentuk perundungan (verbal, fisik, maupun siber). Setiap kelas memiliki tutor sebaya dan didampingi guru Bimbingan Konseling (BK) yang proaktif, serta CCTV 24 jam di seluruh area publik sekolah.'
+        'SMP 6 Jember memiliki sertifikasi Sekolah Ramah Anak (SRA) Tingkat Nasional. Kami menerapkan regulasi Zero Tolerance terhadap segala bentuk perundungan (verbal, fisik, maupun siber). Setiap kelas memiliki tutor sebaya dan didampingi guru Bimbingan Konseling (BK) yang proaktif, serta CCTV 24 jam di seluruh area publik sekolah.'
     },
     {
       id: 4,
@@ -488,10 +488,10 @@ export default function App() {
               </div>
               <div>
                 <span className="font-heading font-extrabold text-lg sm:text-xl tracking-tight text-slate-900 dark:text-white block leading-none">
-                  SMP NUSANTARA
+                  SMP 6 JEMBER
                 </span>
                 <span className="text-xs font-semibold tracking-widest text-blue-600 dark:text-blue-400 uppercase">
-                  Cendekia • Terakreditasi A
+                  Unggul • Terakreditasi A
                 </span>
               </div>
             </a>
@@ -672,22 +672,21 @@ export default function App() {
       {/* Hero Section */}
       <section
         id="beranda"
-        className="relative overflow-hidden pt-10 pb-20 lg:pt-16 lg:pb-28 bg-gradient-to-b from-blue-50/70 via-white to-slate-50 dark:from-slate-900 dark:via-slate-950 dark:to-slate-950"
+        className="relative overflow-hidden pt-10 pb-14 lg:pt-14 lg:pb-16 bg-gradient-to-b from-blue-50/70 via-white to-slate-50 dark:from-slate-900 dark:via-slate-950 dark:to-slate-950"
       >
-        {/* Glow Blobs */}
-        <div className="absolute top-0 right-0 -z-10 w-96 h-96 bg-blue-400/15 dark:bg-blue-600/10 rounded-full blur-3xl pointer-events-none" />
+        {/* Subtle Bottom-Left Accent */}
         <div className="absolute bottom-10 left-10 -z-10 w-80 h-80 bg-amber-400/15 dark:bg-amber-500/10 rounded-full blur-3xl pointer-events-none" />
 
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid lg:grid-cols-12 gap-12 items-center">
+          <div className="grid lg:grid-cols-12 gap-8 lg:gap-6 items-center">
             {/* Left Column: Headline */}
-            <div className="lg:col-span-7 space-y-6 text-center lg:text-left">
+            <div className="lg:col-span-6 space-y-6 text-center lg:text-left">
               <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-blue-100/80 dark:bg-blue-900/40 border border-blue-200 dark:border-blue-800 text-blue-700 dark:text-blue-300 text-xs sm:text-sm font-semibold">
                 <span className="w-2.5 h-2.5 rounded-full bg-blue-600 animate-ping inline-block" />
                 <span>Sekolah Penggerak & Ramah Anak Terbaik Nasional</span>
               </div>
 
-              <h1 className="font-heading text-4xl sm:text-5xl lg:text-6xl font-extrabold text-slate-900 dark:text-white tracking-tight leading-[1.15]">
+              <h1 className="font-heading text-4xl sm:text-5xl lg:text-[3.25rem] xl:text-6xl font-extrabold text-slate-900 dark:text-white tracking-tight leading-[1.15]">
                 Membangun Generasi{' '}
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-indigo-600 dark:from-blue-400 dark:to-indigo-400">
                   Cerdas, Berkarakter
@@ -696,7 +695,7 @@ export default function App() {
               </h1>
 
               <p className="text-base sm:text-lg text-slate-600 dark:text-slate-300 max-w-2xl mx-auto lg:mx-0 leading-relaxed">
-                SMP Nusantara Cendekia memadukan Kurikulum Merdeka berbasis teknologi digital, penguatan
+                SMP 6 Jember memadukan Kurikulum Merdeka berbasis teknologi digital, penguatan
                 karakter mulia, dan pengembangan bakat siswa dalam lingkungan belajar yang inspiratif,
                 inklusif, dan menyenangkan.
               </p>
@@ -749,53 +748,15 @@ export default function App() {
               </div>
             </div>
 
-            {/* Right Column: Visual Composition */}
-            <div className="lg:col-span-5 relative">
-              <div className="relative mx-auto max-w-md lg:max-w-none">
-                {/* Main Hero Image */}
-                <div className="rounded-3xl overflow-hidden shadow-2xl border-4 border-white dark:border-slate-800 relative z-10 aspect-[4/5] bg-slate-200 dark:bg-slate-800">
-                  <img
-                    src="https://images.unsplash.com/photo-1577896851231-70ef18881754?auto=format&fit=crop&w=1000&q=80"
-                    alt="Suasana Belajar Siswa SMP Nusantara Cendekia"
-                    className="w-full h-full object-cover"
-                  />
-                  <div className="absolute inset-0 bg-gradient-to-t from-slate-950/85 via-slate-950/20 to-transparent flex items-end p-6">
-                    <div className="text-white">
-                      <span className="px-2.5 py-1 rounded-md bg-amber-400 text-slate-950 font-bold text-xs uppercase tracking-wider">
-                        Pembelajaran Kolaboratif
-                      </span>
-                      <p className="text-sm font-medium mt-2 text-slate-100">
-                        Suasana kelas interaktif berbasis Smart Classroom, STEAM Project & nilai kepemimpinan.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-
-                {/* Floating Badge 1: Accreditation */}
-                <div className="animate-float absolute -top-5 -left-4 sm:-left-8 z-20 bg-white dark:bg-slate-800 p-4 rounded-2xl shadow-xl border border-slate-100 dark:border-slate-700 flex items-center gap-3.5">
-                  <div className="w-12 h-12 rounded-xl bg-amber-100 dark:bg-amber-900/40 text-amber-600 dark:text-amber-400 flex items-center justify-center text-2xl shrink-0">
-                    <Medal className="w-6 h-6" />
-                  </div>
-                  <div>
-                    <div className="text-xs font-semibold text-slate-400 uppercase">Akreditasi BAN-S/M</div>
-                    <div className="font-heading font-bold text-slate-900 dark:text-white text-sm sm:text-base">
-                      Unggul (Nilai 98)
-                    </div>
-                  </div>
-                </div>
-
-                {/* Floating Badge 2: Achievements */}
-                <div className="animate-float-delayed absolute -bottom-5 -right-4 sm:-right-6 z-20 bg-white dark:bg-slate-800 p-4 rounded-2xl shadow-xl border border-slate-100 dark:border-slate-700 flex items-center gap-3.5">
-                  <div className="w-12 h-12 rounded-xl bg-emerald-100 dark:bg-emerald-900/40 text-emerald-600 dark:text-emerald-400 flex items-center justify-center text-2xl shrink-0">
-                    <Trophy className="w-6 h-6" />
-                  </div>
-                  <div>
-                    <div className="text-xs font-semibold text-slate-400 uppercase">Juara Umum OSN 2026</div>
-                    <div className="font-heading font-bold text-slate-900 dark:text-white text-sm sm:text-base">
-                      Tingkat Provinsi
-                    </div>
-                  </div>
-                </div>
+            {/* Right Column: Visual Composition (Clean, Larger, No Blue Shadow) */}
+            <div className="lg:col-span-6 relative">
+              <div className="relative mx-auto max-w-xl lg:max-w-none flex items-end justify-center">
+                {/* Main Hero Student Cutout — no blue shadow/glow behind photo */}
+                <img
+                  src="/assets/aistudio/Siswi_Berhijab_Membawa_Buku_Pelajaran_f4b9fae1.png"
+                  alt="Siswi SMP 6 Jember Membawa Buku Pelajaran"
+                  className="relative z-10 w-full max-w-[620px] xl:max-w-[680px] lg:scale-105 origin-bottom h-auto object-contain [mask-image:linear-gradient(to_bottom,black_84%,transparent_100%)]"
+                />
               </div>
             </div>
           </div>
@@ -823,13 +784,13 @@ export default function App() {
                       Dr. H. Hendra Wijaya, M.Pd.
                     </h3>
                     <p className="text-xs text-slate-500 dark:text-slate-400">
-                      Kepala SMP Nusantara Cendekia
+                      Kepala SMP 6 Jember
                     </p>
                   </div>
                 </div>
                 <blockquote className="text-slate-600 dark:text-slate-300 text-sm sm:text-base leading-relaxed italic mb-6">
-                  "Pendidikan di usia SMP adalah fondasi emas pembentukan jati diri. Di SMP Nusantara
-                  Cendekia, kami memastikan setiap anak dihargai keunikannya, ditantang daya pikirnya, dan
+                  "Pendidikan di usia SMP adalah fondasi emas pembentukan jati diri. Di SMP 6
+                  Jember, kami memastikan setiap anak dihargai keunikannya, ditantang daya pikirnya, dan
                   dibimbing akhlak mulianya agar siap menjadi pemimpin masa depan yang berdaya saing global."
                 </blockquote>
                 <div className="flex items-center justify-between pt-4 border-t border-slate-200 dark:border-slate-700 text-xs text-slate-500 dark:text-slate-400">
@@ -853,7 +814,7 @@ export default function App() {
               </div>
 
               <p className="text-slate-600 dark:text-slate-300 leading-relaxed">
-                Didirikan sejak tahun 1998, SMP Nusantara Cendekia terus bertransformasi menjadi sekolah
+                Didirikan sejak tahun 1998, SMP 6 Jember terus bertransformasi menjadi sekolah
                 rujukan nasional yang mengintegrasikan kecerdasan intelektual, kematangan emosional, dan
                 keluhuran budi pekerti dalam bingkai Profil Pelajar Pancasila.
               </p>
@@ -913,7 +874,7 @@ export default function App() {
             </h2>
             <p className="text-slate-600 dark:text-slate-400 mt-3">
               Kami menerapkan Kurikulum Merdeka yang diperkaya dengan 4 pilar program unggulan khas SMP
-              Nusantara Cendekia.
+              6 Jember.
             </p>
           </div>
 
@@ -1220,7 +1181,7 @@ export default function App() {
 
               <h2 className="font-heading text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight">
                 Mari Bergabung Menjadi Keluarga Besar{' '}
-                <span className="text-amber-400">Nusantara Cendekia</span>
+                <span className="text-amber-400">SMP 6 Jember</span>
               </h2>
 
               <p className="text-blue-100 text-base leading-relaxed">
@@ -1619,7 +1580,7 @@ export default function App() {
                     </div>
                     <div>
                       <h4 className="font-bold text-sm text-slate-900 dark:text-white">
-                        Nusantara Science & Art Cup
+                        Spenam Science & Art Cup
                       </h4>
                       <p className="text-xs text-slate-500 dark:text-slate-400 mt-0.5 flex items-center gap-1">
                         <Clock className="w-3 h-3" /> Lomba Tingkat SD/MI Se-Jawa
@@ -1665,7 +1626,7 @@ export default function App() {
                 </h2>
                 <p className="text-slate-600 dark:text-slate-400 mt-2 text-sm sm:text-base">
                   Pengalaman nyata dari para orang tua wali murid dan alumni yang telah merasakan dampak
-                  pendidikan holistik di SMP Nusantara Cendekia.
+                  pendidikan holistik di SMP 6 Jember.
                 </p>
               </div>
 
@@ -1708,7 +1669,7 @@ export default function App() {
                     </div>
                   </div>
                   <p className="text-slate-600 dark:text-slate-300 text-sm sm:text-base leading-relaxed italic">
-                    "Perkembangan putri kami luar biasa sejak masuk SMP Nusantara Cendekia. Tidak hanya nilai
+                    "Perkembangan putri kami luar biasa sejak masuk SMP 6 Jember. Tidak hanya nilai
                     akademiknya yang meningkat pesat, tetapi juga kepercayaan dirinya saat berbicara bahasa
                     Inggris di depan umum serta adab sopan santunnya di rumah."
                   </p>
@@ -1788,7 +1749,7 @@ export default function App() {
                     </div>
                   </div>
                   <p className="text-slate-600 dark:text-slate-300 text-sm sm:text-base leading-relaxed italic">
-                    "Pembinaan riset dan olimpiade di SMP Nusantara Cendekia menjadi bekal terbaik saya hingga
+                    "Pembinaan riset dan olimpiade di SMP 6 Jember menjadi bekal terbaik saya hingga
                     bisa diterima di SMA Taruna Nusantara dengan beasiswa penuh. Guru-gurunya sangat suportif
                     dan mengajarkan integritas di atas segalanya."
                   </p>
@@ -1901,7 +1862,7 @@ export default function App() {
                         </a>
                         <button
                           onClick={() =>
-                            showToast('Brosur Digital SMP Nusantara Cendekia (PDF) sedang diunduh...')
+                            showToast('Brosur Digital SMP 6 Jember (PDF) sedang diunduh...')
                           }
                           className="px-3.5 py-2 rounded-xl bg-white/10 hover:bg-white/15 text-white font-semibold text-xs inline-flex items-center gap-1.5 transition cursor-pointer"
                         >
@@ -1998,15 +1959,15 @@ export default function App() {
                 </div>
                 <div>
                   <span className="font-heading font-extrabold text-lg text-white block leading-none">
-                    SMP NUSANTARA
+                    SMP 6 JEMBER
                   </span>
                   <span className="text-xs font-semibold tracking-widest text-blue-400 uppercase">
-                    Cendekia
+                    Unggul & Berkarakter
                   </span>
                 </div>
               </div>
               <p className="text-sm text-slate-400 leading-relaxed">
-                Jl. Pendidikan Raya No. 45, Kampus Hijau Cendekia, Jawa Timur 68121, Indonesia.
+                Jl. Pendidikan Raya No. 45, Jember, Jawa Timur 68121, Indonesia.
               </p>
               <div className="flex items-center gap-3 pt-2">
                 <a
@@ -2121,7 +2082,7 @@ export default function App() {
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Mail className="w-4 h-4 text-blue-400 mt-1 shrink-0" />
-                  <span>info@smpnusantaracendekia.sch.id</span>
+                  <span>info@smp6jember.sch.id</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Clock className="w-4 h-4 text-blue-400 mt-1 shrink-0" />
@@ -2136,7 +2097,7 @@ export default function App() {
           </div>
 
           <div className="pt-8 flex flex-col sm:flex-row items-center justify-between text-xs text-slate-500 gap-4">
-            <p>© 2026 SMP Nusantara Cendekia. Hak Cipta Dilindungi Undang-Undang.</p>
+            <p>© 2026 SMP 6 Jember. Hak Cipta Dilindungi Undang-Undang.</p>
             <p>Terakreditasi A (Unggul) • Sekolah Ramah Anak Nasional • NPSN 20548912</p>
           </div>
         </div>
@@ -2265,7 +2226,7 @@ export default function App() {
                 Tur Virtual Kampus 360°
               </span>
               <h3 className="font-heading text-2xl font-bold text-slate-900 dark:text-white mt-1 mb-4">
-                Jelajahi Lingkungan SMP Nusantara Cendekia
+                Jelajahi Lingkungan SMP 6 Jember
               </h3>
 
               <div className="rounded-2xl overflow-hidden aspect-video bg-slate-950 relative flex items-center justify-center mb-6">
@@ -2384,7 +2345,7 @@ export default function App() {
                 <GraduationCap className="w-7 h-7" />
               </div>
               <h3 className="font-heading font-extrabold text-xl text-slate-900 dark:text-white">
-                SMP NUSANTARA CENDEKIA
+                SMP 6 JEMBER
               </h3>
               <p className="text-xs text-slate-500">
                 Bukti Pra-Pendaftaran Peserta Didik Baru (PPDB) TA 2026/2027
